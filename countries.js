@@ -9,6 +9,7 @@
     "GU": "Gujarat",
     "TA": "Tamil nadu",
     "TI": "Tiruppur",
-    "CO": "Coimbatore"
+    "CO": "Coimbatore",
+    "MA" : "Mayiladuthurai"
    
 }
