@@ -10,6 +10,7 @@
 /*global define, window, document, jQuery, exports, require */
 
 // Expose plugin as an AMD module if AMD loader is present:
+
 (function (factory) {
     "use strict";
     if (typeof define === 'function' && define.amd) {
