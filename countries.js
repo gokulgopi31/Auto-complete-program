@@ -11,5 +11,4 @@
     "TI": "Tiruppur",
     "CO": "Coimbatore",
     "MA" : "Mayiladuthurai"
-   
 }
